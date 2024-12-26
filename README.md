@@ -26,10 +26,4 @@ This project demonstrates the creation of an interactive **Loan Performance Dash
    git clone https://github.com/your-repo/loan-performance-analysis.git
 2. Open the .pbix file in Power BI Desktop.
 3. Explore the interactive dashboard.
-   
-## Contact
-- **Author**: Vani Bhatt
-- **Email**: bhattvani91@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/vani-bhatt-b8a69a79/
-  
-**Thank you for exploring this project!**
+
