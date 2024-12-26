@@ -18,8 +18,7 @@ This project demonstrates the creation of an interactive **Loan Performance Dash
 ## Repository Contents
 1. **Dataset**: Synthetic dataset in Excel format.
 2. **Power BI File**: `.pbix` file with the dashboard.
-3. **PPT Presentation**: Slides summarizing the analysis and insights.
-4. **README**: This document.
+3. **README**: This document.
 
 ## How to Run
 1. Clone this repository:
